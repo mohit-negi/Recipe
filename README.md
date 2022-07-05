@@ -1,3 +1,4 @@
 # Recipe
 
-Update to the original recipe project created with the HTML
+Update to the original RECIPE project created with the HTML
+RECIPE consist of an index ,recipes and images
